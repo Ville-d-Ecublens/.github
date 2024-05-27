@@ -1,3 +1,3 @@
-![banner](./images/banner.png)
+![banner](images/banner.png)
 
 # Ville d'Ecublens
